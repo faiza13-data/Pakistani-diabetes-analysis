@@ -11,10 +11,11 @@ key risk factors using Python, Pandas, and Seaborn.
 
 ## 📊 Visualizations
 ![Age Group Analysis](Age%20Group1.png)
+![Correlation Heatmap](correlation%20heatmap.png)
 ![Blood Sugar Comparison](Blood%20sugar.png)
 ![Boxplot Analysis](Boxplot.png)
 ![Comparison](comparison.png)
-![Correlation Heatmap](correlation%20heatmap.png)
+
 
 ## 🛠️ Tools Used
 Python | Pandas | NumPy | Matplotlib | Seaborn
