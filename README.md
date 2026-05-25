@@ -12,7 +12,7 @@ key risk factors using Python, Pandas, and Seaborn.
 ## 📊 Visualizations
 ![Age Group Analysis](AgeGroup1.png)
 ![Gender Analysis](comparison.png)
-![Blood Sugar](Bloodsugar_graph.png)
+![Blood Sugar](Bloodsugar_graph.png) 
 
 ## 🛠️ Tools Used
 Python | Pandas | NumPy | Matplotlib | Seaborn
