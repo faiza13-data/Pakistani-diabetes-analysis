@@ -21,4 +21,5 @@ key risk factors using Python, Pandas, and Seaborn.
 Python | Pandas | NumPy | Matplotlib | Seaborn
 
 ## 📁 Dataset
-912 Pakistani patient records
+- 912 Pakistani patient records
+- [Download Dataset](Pakistani_Diabetes_Dataset.csv)
