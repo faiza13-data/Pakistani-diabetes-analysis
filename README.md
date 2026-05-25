@@ -10,7 +10,9 @@ key risk factors using Python, Pandas, and Seaborn.
 - Senior patients (60+) — 100% diabetic
 
 ## 📊 Visualizations
-
+![Age Group Analysis](age_group_graph.png)
+![Gender Analysis](gender_graph.png)
+![Blood Sugar](bloodsugar_graph.png)
 
 ## 🛠️ Tools Used
 Python | Pandas | NumPy | Matplotlib | Seaborn
